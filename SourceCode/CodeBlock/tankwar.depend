@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1420212242 source:c:\users\administrator\desktop\tankwar\sourcecode\icon.rc
+
+1433848136 source:c:\users\administrator\desktop\tankwar\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\administrator\desktop\tankwar\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\administrator\desktop\tankwar\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1580443571 source:c:\users\administrator\desktop\tankwar\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+
+1420212242 source:c:\users\administrator\desktop\tankwar1.0\sourcecode\icon.rc
+
+1433848136 source:c:\users\administrator\desktop\tankwar1.0\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\administrator\desktop\tankwar1.0\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\administrator\desktop\tankwar1.0\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1580553780 source:c:\users\administrator\desktop\tankwar1.0\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+
+1420212242 source:d:\学习文件\tankwar1.0\sourcecode\icon.rc
+
+1433848136 source:d:\学习文件\tankwar1.0\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 d:\学习文件\tankwar1.0\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 d:\学习文件\tankwar1.0\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1582089334 source:d:\学习文件\tankwar1.0\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1420212242 source:d:\学习文件\tankwar1.1\sourcecode\icon.rc
+
+1433848136 source:d:\学习文件\tankwar1.1\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 d:\学习文件\tankwar1.1\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 d:\学习文件\tankwar1.1\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1584859530 source:d:\学习文件\tankwar1.1\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1420212242 source:d:\学习文件\tankwar1.2\sourcecode\icon.rc
+
+1433848136 source:d:\学习文件\tankwar1.2\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 d:\学习文件\tankwar1.2\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 d:\学习文件\tankwar1.2\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585461217 source:d:\学习文件\tankwar1.2\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1420212242 source:c:\users\administrator\desktop\tankwar1.3\sourcecode\icon.rc
+
+1433848136 source:c:\users\administrator\desktop\tankwar1.3\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 c:\users\administrator\desktop\tankwar1.3\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 c:\users\administrator\desktop\tankwar1.3\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1585978763 source:c:\users\administrator\desktop\tankwar1.3\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	<stdio.h>
+	"LessonX.h"
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1420212242 source:d:\学习文件\tankwar2.0\sourcecode\icon.rc
+
+1433848136 source:d:\学习文件\tankwar2.0\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1461256728 d:\学习文件\tankwar2.0\sourcecode\header\commonapi.h
+	<windows.h>
+
+1433848234 d:\学习文件\tankwar2.0\sourcecode\header\lessonx.h
+	<Windows.h>
+
